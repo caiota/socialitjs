@@ -19,7 +19,7 @@ function socialit(caiota){
     socialitcss  = document.createElement('link');
     socialitcss.rel  = 'stylesheet';
     socialitcss.type = 'text/css';
-    socialitcss.href = '//wildrift.tk/css/socialit.css';
+    socialitcss.href = 'https://cdn.jsdelivr.net/gh/caiota/socialitjs/socialit.css';
     socialitcss.media = 'all';
     head.appendChild(socialitcss);
     }
