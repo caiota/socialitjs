@@ -1,6 +1,8 @@
+
+let versao="v0.46";
+if(versao){
 var startSocialit=false;
 var socialitcss=null;
-let versao="v0.44";
 
 function socialit(caiota){
     if(startSocialit===false&&document.getElementsByClassName('socialit')[0].children[0].hasAttribute('onclick')===false){
@@ -310,3 +312,4 @@ function socialit(caiota){
                  }
           }
            socialit();
+}
