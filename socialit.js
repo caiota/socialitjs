@@ -305,10 +305,7 @@ function socialit(caiota){
                     }
                     break;
                     
-                    
-                    
-                    
-                    default:
+                   default:
                    return;
                  }
           }
