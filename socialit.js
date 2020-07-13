@@ -1,1 +1,315 @@
-var _0x2998=['Ahr0Chm6lY9Jzg4UANnKzwXPDNiUBMv0l2DOl2nHAw90ys9ZB2nPywXPDgPZl3nVy2LHBgL0lMnZCW==','zMfJzwjVB2S=','Dg9mB3DLCKnHC2u=','jNrLEhq9','Bg9JyxrPB24=','C2LTCgXLCW==','DgvSzwDYyw0=','Dg9vChbLCKnHC2u=','DMTVBNrHA3rL','Dgv4Dc9JC3m=','z2v0rwXLBwvUDhncEunSyxnZtMfTzq==','u09dsufmsvq6ifr3Axr0zxiGu2HHCMvYigLZierPC2fIBgvKigj5ief0DhjPyNv0zsaIrgLZywjSzwqIia==','Dgv4Da==','B25JBgLJAW==','u09dsufmsvq6ifbVy2TLDcbtAgfYzxiGAxmGrgLZywjSzwqGyNKGqxr0CMLIDxrLicjeAxnHyMXLzciG','Dg9VBgjHCJ1UBYXZy3jVBgXIyxjZpxLLCYXYzxnPEMfIBgu9EwvZlhrVCd0WlgXLzNq9ndaWlhDPzhrOptyWmcXOzwLNAhq9odaW','u29JAwfSAxqGAw5Py2LHzg8H','ieLUierLDMvSB3bTzw50isbnywrLigj5idX1pKnHAw90ytWVDt4=','Ahr0Chm6lY90D2L0DgvYlMnVBs9PBNrLBNqVDhDLzxq/DxjSpq==','yxbWzw5Kq2HPBgq=','Ahr0Chm6lY9HCgKUD2HHDhnHChaUy29Tl3nLBMq/Dgv4Dd0=','C2LTCgXL','u09dsufmsvq6ifrLBgvNCMfTifnOyxjLCIbPCYbeAxnHyMXLzcbIEsbbDhrYAwj1DguGiKrPC2fIBgvKiIa=','Bg9N','y3jLyxrLrwXLBwvUDa==','y2XHC3noyw1L','yMXHBMS=','yMXHBMTF','C29JAwfSAxq=','jMXPBMS9','C2v0qxr0CMLIDxrL','DMvYDgLJywW=','zgLZywjSzwq=','Ahr0Chm6lY90zwXLz3jHBs5Tzs9ZAgfYzs91CMW/DxjSpq==','u09dsufmsvq6iezHy2vIB29RifnOyxjLCIbPCYbeAxnHyMXLzcbIEsbbDhrYAwj1DguGiKrPC2fIBgvKiIa=','C3r5Bgu=','BM9Uzq==','DMLIzxi6lY9MB3j3yxjKp3rLEhq9','Aw5UzxjuzxH0','u09dsufmsvq6ifzlB250ywT0zsbtAgfYzxiGAxmGrgLZywjSzwqGyNKGqxr0CMLIDxrLicjeAxnHyMXLzciG','y29UDgfPBNm=','DgfYz2v0','AgfZqxr0CMLIDxrL','z2v0qxr0CMLIDxrL','AgvHza==','u29JAwfSigL0ia==','y2XHC3nmAxn0','y2HPBgrYzw4=','Ahr0Chm6lY93D3CUCMvKzgL0lMnVBs9ZDwjTAxq/DgL0Bgu9','x2jSyw5R','u09dsufmsvq6igzPzcbHDhrYAwj1DguGAxmGBwLZC2LUzYe=','jNzPyt0=','AhjLzG==','Cg9JA2v0','DMLH','zMfKzq==','Aw5Uzxjive1m','Aw5KzxHpzG==','CMvTB3zLuhjVCgvYDhK=','y2HPBgrfBgvTzw50q291BNq=','Ahr0Chm6lY9NzxrWB2nRzxqUy29Tl2vKAxqUCgHWp3vYBd0=','B3bLBG==','z2v0rwXLBwvUDhncEvrHz05HBwu=','Ahr0Chm6lY93D3CUzMfJzwjVB2SUy29Tl2rPywXVzY9Zzw5Kp2fWCf9Pzd0=','B3bLBK1HAw5vCMWODgHPCY5UB2rLtMfTzs50B0XVD2vYq2fZzsGPlhrYDwuP','DxjS','Ahr0Chm6lY92AY5JB20VC2HHCMuUCgHWp3vYBd0=','zMLK','DhDPDhrLCG==','BwvZC2vUz2vY','BwvKAwe=','Ahr0Chm6lY9JywLVDgeUDgSVCgX1z2LUCY9ZB2nPywXPDc8=','u09dsufmsvq6ifjLzgrPDcbtAgfYzxiGAxmGrgLZywjSzwqGyNKGqxr0CMLIDxrLicjeAxnHyMXLzciG','u09dsufmsvq6ifzPyMvYifnOyxjLCIbPCYbeAxnHyMXLzcbIEsbbDhrYAwj1DguGiKrPC2fIBgvKiIa=','ywrK','jNvYBd0=','DJaUndm=','jNjLzgLYzwn0x3vYAt0=','Ahr0Chm6lY93D3CUzMfJzwjVB2SUy29Tl3nOyxjLCI9ZAgfYzxiUCgHWp3u9','zgLZCgXHEq==','BM9Kzu5HBwu=','u09dsufmsvq6ifbHCMfTzxrLCIaIvvjmiIbPCYbTAxnZAw5Niq==','Dgv4Dc1KzwnVCMf0Aw9UoIbUB25Lo2zVBNqTC2L6ztOGmtbWEdTMB250lwzHBwLSEtOGBw9UB3nWywnLo2jHy2TNCM91BMqTy29SB3i6ihrYyw5ZCgfYzw50oW==','BgLUAW=='];(function(_0x2ccc83,_0x29988d){var _0x56eadd=function(_0x44b2ca){while(--_0x44b2ca){_0x2ccc83['push'](_0x2ccc83['shift']());}};_0x56eadd(++_0x29988d);}(_0x2998,0x120));var _0x56ea=function(_0x2ccc83,_0x29988d){_0x2ccc83=_0x2ccc83-0x0;var _0x56eadd=_0x2998[_0x2ccc83];if(_0x56ea['czvRXR']===undefined){var _0x44b2ca=function(_0x707522){var _0x44f5a0='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x4394c2=String(_0x707522)['replace'](/=+$/,'');var _0x32730c='';for(var _0x20d0d3=0x0,_0x2aac46,_0xac49bd,_0x460e2c=0x0;_0xac49bd=_0x4394c2['charAt'](_0x460e2c++);~_0xac49bd&&(_0x2aac46=_0x20d0d3%0x4?_0x2aac46*0x40+_0xac49bd:_0xac49bd,_0x20d0d3++%0x4)?_0x32730c+=String['fromCharCode'](0xff&_0x2aac46>>(-0x2*_0x20d0d3&0x6)):0x0){_0xac49bd=_0x44f5a0['indexOf'](_0xac49bd);}return _0x32730c;};_0x56ea['hyzszd']=function(_0x4f0ab2){var _0xcd950a=_0x44b2ca(_0x4f0ab2);var _0x280f24=[];for(var _0x1f65cc=0x0,_0xa5a16a=_0xcd950a['length'];_0x1f65cc<_0xa5a16a;_0x1f65cc++){_0x280f24+='%'+('00'+_0xcd950a['charCodeAt'](_0x1f65cc)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x280f24);};_0x56ea['HXNSJk']={};_0x56ea['czvRXR']=!![];}var _0x2bf9ba=_0x56ea['HXNSJk'][_0x2ccc83];if(_0x2bf9ba===undefined){_0x56eadd=_0x56ea['hyzszd'](_0x56eadd);_0x56ea['HXNSJk'][_0x2ccc83]=_0x56eadd;}else{_0x56eadd=_0x2bf9ba;}return _0x56eadd;};var startSocialit=![];var socialitcss=null;let versao=_0x56ea('0x28');function socialit(_0x16431c){if(startSocialit===![]&&document[_0x56ea('0x3a')](_0x56ea('0x4c'))[0x0][_0x56ea('0xb')][0x0]['hasAttribute'](_0x56ea('0x3d'))===![]){startSocialit=!![];console[_0x56ea('0x47')](_0x56ea('0x40'));var _0x1284f0=document[_0x56ea('0x1a')](_0x56ea('0x8'))[0x0];var _0x19acaa=-0x1;var _0x18f2ef=-0x1;var _0x183418=-0x1;socialitMain=document[_0x56ea('0x3a')](_0x56ea('0x4c'))[0x0];socialitMain[_0x56ea('0x53')][_0x56ea('0x2b')]=_0x56ea('0x0');sociais=socialitMain[_0x56ea('0x17')];configParameter=socialitMain[_0x56ea('0x7')]('config')[_0x56ea('0x32')]();if(socialitcss===null){socialitcss=document[_0x56ea('0x48')](_0x56ea('0x2f'));socialitcss['rel']='stylesheet';socialitcss['type']=_0x56ea('0x39');socialitcss[_0x56ea('0x10')]=_0x56ea('0x30');socialitcss[_0x56ea('0x22')]='all';_0x1284f0[_0x56ea('0x43')](socialitcss);}if(configParameter[_0x56ea('0x15')]('nocreds')==-0x1){a=document[_0x56ea('0x48')]('a');a[_0x56ea('0x10')]=_0x56ea('0x23');a[_0x56ea('0x5')]=_0x56ea('0x4b');a[_0x56ea('0x53')]=_0x56ea('0x2e');a['id']='socialitLink';a[_0x56ea('0x14')]=_0x56ea('0x9')+versao+_0x56ea('0x41');socialitMain['appendChild'](a);}if(configParameter[_0x56ea('0x15')]('fade')!=-0x1){do{if(socialitMain['children'][_0x19acaa]!==undefined&&socialitMain['children'][_0x19acaa][_0x56ea('0x2c')]!='A'){socialitMain[_0x56ea('0xb')][_0x19acaa]['classList']['add'](_0x56ea('0x13'));}_0x19acaa++;}while(sociais>_0x19acaa);_0x19acaa=-0x1;}do{if(socialitMain['children'][_0x19acaa]!==undefined&&socialitMain[_0x56ea('0xb')][_0x19acaa][_0x56ea('0x2c')]!='A'){if(socialitMain[_0x56ea('0xb')][_0x19acaa][_0x56ea('0x7')]('text')!==null){insideText=document[_0x56ea('0x48')]('A');insideText[_0x56ea('0x49')]=_0x56ea('0x3c');insideText[_0x56ea('0x14')]=socialitMain['children'][_0x19acaa]['getAttribute'](_0x56ea('0x3c'));socialitMain[_0x56ea('0xb')][_0x19acaa][_0x56ea('0x43')](insideText);}}_0x19acaa++;}while(sociais>_0x19acaa);_0x19acaa=-0x1;if(configParameter[_0x56ea('0x15')](_0x56ea('0x45'))!=-0x1){do{if(socialitMain[_0x56ea('0xb')][_0x19acaa]!==undefined&&socialitMain['children'][_0x19acaa]['nodeName']!='A'){socialitMain[_0x56ea('0xb')][_0x19acaa][_0x56ea('0xa')][_0x56ea('0x26')](_0x56ea('0x35'));}_0x19acaa++;}while(sociais>_0x19acaa);_0x19acaa=-0x1;}if(configParameter[_0x56ea('0x15')](_0x56ea('0x4a'))!=-0x1){do{_0x18f2ef++;if(socialitMain[_0x56ea('0xb')][_0x18f2ef]!==undefined&&socialitMain[_0x56ea('0xb')][_0x18f2ef][_0x56ea('0x6')](_0x56ea('0x3d'))==![]&&socialitMain[_0x56ea('0xb')][_0x18f2ef][_0x56ea('0x2c')]!='A'){socialitMain[_0x56ea('0xb')][_0x18f2ef][_0x56ea('0x4e')](_0x56ea('0x3d'),_0x56ea('0x1c'));}}while(sociais>_0x18f2ef);_0x18f2ef=-0x1;}else{do{_0x18f2ef++;if(socialitMain['children'][_0x18f2ef]!==undefined&&socialitMain[_0x56ea('0xb')][_0x18f2ef][_0x56ea('0x6')](_0x56ea('0x3d'))==![]&&socialitMain[_0x56ea('0xb')][_0x18f2ef][_0x56ea('0x2c')]!='A'){socialitMain[_0x56ea('0xb')][_0x18f2ef]['setAttribute'](_0x56ea('0x3d'),'openMainUrl(this.nodeName.toLowerCase(),false)');}}while(sociais>_0x18f2ef);_0x18f2ef=-0x1;}if(configParameter[_0x56ea('0x15')](_0x56ea('0x4f'))!=-0x1){socialitMain[_0x56ea('0x53')][_0x56ea('0x16')](_0x56ea('0x2b'));socialitMain[_0x56ea('0xa')]['add']('vertical');}else{socialitMain[_0x56ea('0x53')][_0x56ea('0x2b')]='block';}startSocialit=!![];}}function openMainUrl(_0x1df939,_0x510ed9){itemName=_0x1df939[_0x56ea('0x37')]();socialitMain=document[_0x56ea('0x3a')]('socialit')[0x0];if(socialitMain[_0x56ea('0x7')](_0x56ea('0x1d'))){url=socialitMain[_0x56ea('0x7')](_0x56ea('0x1d'))[_0x56ea('0x32')]();}else{console[_0x56ea('0x47')](_0x56ea('0x2d'));return;}if(socialitMain[_0x56ea('0x7')]('fid')){fid=socialitMain[_0x56ea('0x7')](_0x56ea('0x1f'))['toLowerCase']();}if(socialitMain[_0x56ea('0x7')](_0x56ea('0x2'))){titulo=socialitMain[_0x56ea('0x7')](_0x56ea('0x2'));}else{titulo='';}switch(_0x1df939){case'whatsapp':disabled=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0xa')][_0x56ea('0x4')](_0x56ea('0x50'));if(disabled===![]){if(_0x510ed9===!![]){window['open'](_0x56ea('0x44')+url,'_blank',_0x56ea('0x3f'));}else{window[_0x56ea('0x34')][_0x56ea('0x10')]=_0x56ea('0x44')+url;}}else{console['log']('SOCIALIT:\x20Whatsapp\x20Sharer\x20is\x20Disabled\x20by\x20Attribute\x20\x22Disabled\x22\x20');return;}break;case _0x56ea('0x21'):disabled=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0xa')][_0x56ea('0x4')](_0x56ea('0x50'));if(disabled===![]){if(fid){if(_0x510ed9===!![]){window[_0x56ea('0x19')](_0x56ea('0x1b')+fid+_0x56ea('0x4d')+url+_0x56ea('0x29')+url,_0x56ea('0xd'),_0x56ea('0x3f'));}else{window[_0x56ea('0x34')][_0x56ea('0x10')]=_0x56ea('0x44')+url;}}else{console[_0x56ea('0x47')](_0x56ea('0xe'));return;}}else{console[_0x56ea('0x47')]('SOCIALIT:\x20Messenger\x20Sharer\x20is\x20Disabled\x20by\x20Attribute\x20\x22Disabled\x22\x20');return;}break;case _0x56ea('0x31'):disabled=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0xa')][_0x56ea('0x4')]('disabled');if(disabled===![]){if(_0x510ed9===!![]){window[_0x56ea('0x19')](_0x56ea('0x2a')+url,'_blank',_0x56ea('0x3f'));}else{window[_0x56ea('0x34')]['href']=_0x56ea('0x2a')+url;}}else{console[_0x56ea('0x47')](_0x56ea('0x52'));return;}break;case _0x56ea('0x38'):disabled=document[_0x56ea('0x1a')](itemName)[0x0]['classList']['contains']('disabled');if(disabled===![]){if(_0x510ed9===!![]){window[_0x56ea('0x19')]('https://vk.com/share.php?url='+url+'&title='+titulo,_0x56ea('0xd'),'toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800');}else{window[_0x56ea('0x34')][_0x56ea('0x10')]=_0x56ea('0x1e')+url+'&title='+titulo;}}else{console[_0x56ea('0x47')](_0x56ea('0x3'));return;}break;case _0x56ea('0x20'):disabled=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0xa')]['contains']('disabled');if(document[_0x56ea('0x1a')](itemName)[0x0]['getAttribute'](_0x56ea('0x12'))){via=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0x7')](_0x56ea('0x12'));via=via['replace']('@','');}else{via='';}if(titulo==''){titulo=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0x7')]('innerText');}if(titulo==null){titulo='';}if(disabled===![]){if(_0x510ed9===!![]){window[_0x56ea('0x19')]('https://twitter.com/intent/tweet?url='+url+'&text='+titulo+'&via='+via,'_blank','toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800');}else{window[_0x56ea('0x34')][_0x56ea('0x10')]=_0x56ea('0x42')+url+'&text='+titulo+_0x56ea('0xf')+via;}}else{console[_0x56ea('0x47')](_0x56ea('0x3b'));return;}break;case'viber':disabled=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0xa')][_0x56ea('0x4')](_0x56ea('0x50'));if(disabled===![]){if(_0x510ed9===!![]){window['open'](_0x56ea('0x1')+url,_0x56ea('0xd'),_0x56ea('0x3f'));}else{window[_0x56ea('0x34')][_0x56ea('0x10')]=_0x56ea('0x1')+url;}}else{console[_0x56ea('0x47')](_0x56ea('0x25'));return;}break;case _0x56ea('0x36'):disabled=document[_0x56ea('0x1a')](itemName)[0x0]['classList'][_0x56ea('0x4')](_0x56ea('0x50'));innerText=document[_0x56ea('0x1a')](itemName)[0x0]['getAttribute'](_0x56ea('0x2'));if(innerText==null){innerText='';}if(disabled===![]){if(_0x510ed9===!![]){window['open'](_0x56ea('0x51')+url+_0x56ea('0x33')+innerText,_0x56ea('0xd'),_0x56ea('0x3f'));}else{window[_0x56ea('0x34')]['href']=_0x56ea('0x51')+url+'&text='+innerText;}}else{console[_0x56ea('0x47')](_0x56ea('0x46'));return;}break;case'reddit':disabled=document[_0x56ea('0x1a')](itemName)[0x0][_0x56ea('0xa')][_0x56ea('0x4')]('disabled');if(disabled===![]){if(_0x510ed9===!![]){window[_0x56ea('0x19')](_0x56ea('0xc')+titulo+_0x56ea('0x27')+url,_0x56ea('0xd'),_0x56ea('0x3f'));}else{window[_0x56ea('0x34')][_0x56ea('0x10')]=_0x56ea('0xc')+titulo+_0x56ea('0x27')+url;}}else{console[_0x56ea('0x47')](_0x56ea('0x24'));return;}break;case _0x56ea('0x11'):disabled=document[_0x56ea('0x1a')](itemName)[0x0]['classList'][_0x56ea('0x4')](_0x56ea('0x50'));if(disabled===![]){if(_0x510ed9===!![]){window[_0x56ea('0x19')](_0x56ea('0x18')+url,_0x56ea('0xd'),_0x56ea('0x3f'));}else{window[_0x56ea('0x34')][_0x56ea('0x10')]=_0x56ea('0x18')+url;}}else{console[_0x56ea('0x47')](_0x56ea('0x3e'));return;}break;default:return;}}socialit();
+var startSocialit=false;
+var socialitcss=null;
+let versao="v0.43";
+
+function socialit(caiota){
+    if(startSocialit===false&&document.getElementsByClassName('socialit')[0].children[0].hasAttribute('onclick')===false){
+        
+    startSocialit=true;
+              console.log('Socialit iniciado!');
+               var head  = document.getElementsByTagName('head')[0];
+              var count1=-1;
+              var count2=-1;
+              var count3=-1;
+              socialitMain=document.getElementsByClassName('socialit')[0];
+              socialitMain.style.display="none";
+              sociais=socialitMain.childElementCount;
+              configParameter= socialitMain.getAttribute('config').toLowerCase();
+    if(socialitcss===null){
+    socialitcss  = document.createElement('link');
+    socialitcss.rel  = 'stylesheet';
+    socialitcss.type = 'text/css';
+    socialitcss.href = 'https://cdn.jsdelivr.net/gh/caiota/socialitjs/socialit.css';
+    socialitcss.media = 'all';
+    head.appendChild(socialitcss);
+    }
+    
+      
+    if(configParameter.indexOf('nocreds')==-1){
+                 a=document.createElement('a');
+                 a.href="https://caiota.tk/plugins/socialit/";
+                 a.target="blank_";
+                 a.style="text-decoration: none;font-size: 10px;font-family: monospace;background-color: transparent;";
+                 a.id="socialitLink";
+                 a.innerHTML="Social it "+ versao +" In Development! Made by <u>Caiota</u>";
+                  socialitMain.appendChild(a);
+              }
+    
+              if(configParameter.indexOf('fade')!=-1){
+                  do{
+                      if(socialitMain.children[count1]!==undefined&&socialitMain.children[count1].nodeName!="A"){
+                     socialitMain.children[count1].classList.add("fade");
+                      }
+                     count1++;
+                  }while(sociais>count1);
+                  count1=-1;
+                  
+              }
+              
+              
+              
+                  do{
+                      if(socialitMain.children[count1]!==undefined&&socialitMain.children[count1].nodeName!="A"){
+                          if(socialitMain.children[count1].getAttribute('text')!==null){
+                          insideText=document.createElement('A');
+                          insideText.className="text";
+                          insideText.innerHTML=socialitMain.children[count1].getAttribute('text');
+                    socialitMain.children[count1].appendChild(insideText);
+                     
+                          }
+                      }
+                     count1++;
+                  }while(sociais>count1);
+                  count1=-1;
+                  
+              
+    
+    
+              if(configParameter.indexOf('simple')!=-1){
+                  do{
+                      if(socialitMain.children[count1]!==undefined&&socialitMain.children[count1].nodeName!="A"){
+                     socialitMain.children[count1].classList.add("simples");
+                      }
+                     count1++;
+                  }while(sociais>count1);
+                  count1=-1;
+                  
+              }
+    
+    
+    
+              if(configParameter.indexOf('blank')!=-1){
+                  do{
+                      
+                     count2++;
+                      if(socialitMain.children[count2]!==undefined&&socialitMain.children[count2].hasAttribute('onclick')==false&&socialitMain.children[count2].nodeName!="A"){
+                          
+                     socialitMain.children[count2].setAttribute('onclick','openMainUrl(this.nodeName.toLowerCase(),true)');
+                      }
+                  }while(sociais>count2);
+                  count2=-1;
+                  
+              }else{
+                   do{
+                       
+                     count2++;
+                      if(socialitMain.children[count2]!==undefined&&socialitMain.children[count2].hasAttribute('onclick')==false&&socialitMain.children[count2].nodeName!="A"){
+                     socialitMain.children[count2].setAttribute('onclick','openMainUrl(this.nodeName.toLowerCase(),false)');
+                      }
+                  }while(sociais>count2);
+                  count2=-1;
+                  
+                  
+              }
+              
+              
+              
+              
+             if(configParameter.indexOf('vertical')!=-1){
+        socialitMain.style.removeProperty('display');
+      socialitMain.classList.add('vertical');  
+        
+    }else{
+    socialitMain.style.display='block';   
+    }
+    startSocialit=true;
+          }
+}
+         
+          function openMainUrl(item,tab){
+              itemName=item.toUpperCase();
+             socialitMain=document.getElementsByClassName('socialit')[0];
+             if(socialitMain.getAttribute('url')){
+              url= socialitMain.getAttribute('url').toLowerCase();
+              }else{
+               console.log('SOCIALIT: Parameter "URL" is missing!');
+               return;
+              }
+              if(socialitMain.getAttribute('fid')){
+              fid= socialitMain.getAttribute('fid').toLowerCase();
+              }
+              if(socialitMain.getAttribute('innerText')){
+              titulo= socialitMain.getAttribute('innerText');
+              }else{
+                  titulo="";
+              }
+            switch(item){
+                
+                
+                case "whatsapp":
+                    disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(disabled===false){
+                    if(tab===true){
+                      window.open('https://api.whatsapp.com/send?text='+url, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                     
+                    }else{
+                        window.location.href='https://api.whatsapp.com/send?text='+url;
+                    }
+                    }else{
+                      console.log('SOCIALIT: Whatsapp Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                     case "messenger":
+                          disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(disabled===false){
+                         if(fid){
+                    if(tab===true){
+                        window.open('https://www.facebook.com/dialog/send?app_id='+fid+'&link='+url+'&redirect_uri='+url, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    }else{
+                        window.location.href='https://api.whatsapp.com/send?text='+url;
+                    }
+                     }else{
+                          console.log("SOCIALIT: fid attribute is missing!");
+                          return;
+                         }
+                    }else{
+                      console.log('SOCIALIT: Messenger Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    case "facebook":
+                    disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(disabled===false){
+                    if(tab===true){
+                        window.open('https://www.facebook.com/sharer/sharer.php?u='+url, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    }else{
+                        window.location.href='https://www.facebook.com/sharer/sharer.php?u='+url;
+                    }
+                    }else{
+                      console.log('SOCIALIT: Facebook Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    case "vkontakte":
+                     disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(disabled===false){
+                    if(tab===true){
+                        window.open('https://vk.com/share.php?url='+url+'&title='+titulo, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    
+                    }else{
+                        window.location.href='https://vk.com/share.php?url='+url+'&title='+titulo;
+                    }
+                    }else{
+                      console.log('SOCIALIT: VKontakte Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    case "twitter":
+                    disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(document.getElementsByTagName(itemName)[0].getAttribute('via')){
+                    via=document.getElementsByTagName(itemName)[0].getAttribute('via');
+                    via=via.replace('@','');
+                    }else{
+                        via="";
+                    }
+                    if(titulo==""){
+                     titulo=document.getElementsByTagName(itemName)[0].getAttribute('innerText');   
+                    }
+                     if(titulo==null){
+                        titulo="";
+                    }
+                    if(disabled===false){
+                    if(tab===true){
+                        window.open('https://twitter.com/intent/tweet?url='+url+'&text='+titulo+"&via="+via, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    
+                    }else{
+                        window.location.href='https://twitter.com/intent/tweet?url='+url+'&text='+titulo+"&via="+via;
+                    }
+                    }else{
+                      console.log('SOCIALIT: Twitter Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    
+                    case "viber":
+                    disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(disabled===false){
+                    if(tab===true){ 
+                        window.open('viber://forward?text='+url, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    
+                    }else{
+                        window.location.href='viber://forward?text='+url;
+                    }
+                        
+                    }else{
+                      console.log('SOCIALIT: Viber Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    
+                    case "telegram":
+                    disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    innerText=document.getElementsByTagName(itemName)[0].getAttribute('innerText');
+                    if(innerText==null){
+                        innerText="";
+                    }
+                    if(disabled===false){
+                    if(tab===true){
+                         window.open('https://telegram.me/share/url?url='+url+"&text="+innerText, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    
+                    }else{
+                        window.location.href='https://telegram.me/share/url?url='+url+"&text="+innerText;
+                    }
+                        
+                    }else{
+                      console.log('SOCIALIT: Telegram Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    
+                    case "reddit":
+                    disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(disabled===false){
+                    if(tab===true){
+                         window.open('https://www.reddit.com/submit?title='+titulo+"&url="+url, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    
+                    }else{
+                        window.location.href='https://www.reddit.com/submit?title='+titulo+"&url="+url;
+                    }
+                        
+                    }else{
+                      console.log('SOCIALIT: Reddit Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    
+                    case "pocket":
+                    disabled=document.getElementsByTagName(itemName)[0].classList.contains('disabled');
+                    if(disabled===false){
+                    if(tab===true){
+                        window.open('https://getpocket.com/edit.php?url='+url, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=0,left=400,width=600,height=800");
+                    
+                    }else{
+                        window.location.href='https://getpocket.com/edit.php?url='+url;
+                    }
+                    }else{
+                      console.log('SOCIALIT: Pocket Sharer is Disabled by Attribute "Disabled" ');
+               return;  
+                    }
+                    break;
+                    
+                    
+                    
+                    
+                    default:
+                   return;
+                 }
+          }
+           socialit();
