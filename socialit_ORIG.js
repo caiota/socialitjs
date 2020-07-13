@@ -1,6 +1,6 @@
 var startSocialit=false;
 var socialitcss=null;
-let versao="v0.43";
+let versao="v0.44";
 
 function socialit(caiota){
     if(startSocialit===false&&document.getElementsByClassName('socialit')[0].children[0].hasAttribute('onclick')===false){
