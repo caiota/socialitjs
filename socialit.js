@@ -1,6 +1,5 @@
-
-let versao="v0.46";
-if(versao){
+if(document.getElementsById('socialitcss')==undefined||document.getElementsById('socialitcss')==null){
+   let versao="v0.47";
 var startSocialit=false;
 var socialitcss=null;
 
@@ -20,6 +19,7 @@ function socialit(caiota){
     if(socialitcss===null){
     socialitcss  = document.createElement('link');
     socialitcss.rel  = 'stylesheet';
+    socialitcss.id = 'socialitcss';
     socialitcss.type = 'text/css';
     socialitcss.href = 'https://cdn.jsdelivr.net/gh/caiota/socialitjs/socialit.css';
     socialitcss.media = 'all';
