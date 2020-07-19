@@ -1,5 +1,5 @@
-if(document.getElementsById('socialitcss')==undefined||document.getElementsById('socialitcss')==null){
-   let versao="v0.47";
+if(document.getElementById('socialitcss')==undefined||document.getElementById('socialitcss')==null){
+   let versao="v0.48";
 var startSocialit=false;
 var socialitcss=null;
 
