@@ -1,5 +1,5 @@
 if(document.getElementById('socialitcss')==undefined||document.getElementById('socialitcss')==null){
-   let versao="v0.48";
+   let versao="v0.49";
 var startSocialit=false;
 var socialitcss=null;
 
@@ -29,7 +29,7 @@ function socialit(caiota){
       
     if(configParameter.indexOf('nocreds')==-1){
                  a=document.createElement('a');
-                 a.href="https://caiota.tk/plugins/socialit/";
+                 a.href="https://caiota.heroesevolved.tk/plugins/socialit/";
                  a.target="blank_";
                  a.style="text-decoration: none;font-size: 10px;font-family: monospace;background-color: transparent;";
                  a.id="socialitLink";
